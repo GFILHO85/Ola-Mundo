@@ -26,5 +26,5 @@ Lista demarcada:
    2 | José | 10,0
    3 | Raquel | 10,0
 
-   Olá, pequeno Gafanhoto
+   Olá, pequeno Gafanhoto 🖖
 
