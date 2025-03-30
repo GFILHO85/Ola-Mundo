@@ -17,3 +17,12 @@ Lista demarcada:
 
    Lista de Tarefas
    - [x] Criar a pagina principal
+
+  # Criando Tabela
+
+   Num | NOME | Nota
+   ---|---|---
+   1 | Gustavo | 8,5
+   2 | José | 10,0
+   3 | Raquel | 10,0
+
